@@ -1,5 +1,5 @@
 {
- "name":"af-node-base",
+ "name":"af-node-express",
   "version":"0.0.1",
   "dependencies":{
       "express":""
