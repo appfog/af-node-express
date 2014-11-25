@@ -1,7 +1,7 @@
 {
- "name":"af-node-base",
-  "version":"0.0.1",
-  "dependencies":{
-      "express":""
+  "name": "af-node-base",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.10.2"
   }
 }
